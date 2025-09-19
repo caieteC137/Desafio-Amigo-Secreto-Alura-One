@@ -24,3 +24,19 @@ function adicionarAmigo() {
     input.value = "";
     input.focus();
 }
+
+// Função para mostrar os nomes na lista
+function mostrarLista() {
+    // Captura a <ul> onde os nomes serão exibidos
+    var lista = document.getElementById("listaAmigos");
+
+    // Limpa a lista antes de atualizar
+    lista.innerHTML = "";
+
+    // Percorre o array e adiciona cada nome como <li>
+    for (var i = 0; i < amigos.length; i++) {
+        var item = document.createElement("li");
+        item.textContent = amigos[i];
+        lista.appendChild(item);
+    }
+}
