@@ -70,7 +70,7 @@ O objetivo é praticar manipulação de DOM, arrays, eventos e funções básica
 ## Status do Projeto
 
 <h4 align="center"> 
-	:construction:  Projeto em Concluído  :construction:
+	:construction:  Projeto Concluído  :construction:
 </h4>
 
 ---
