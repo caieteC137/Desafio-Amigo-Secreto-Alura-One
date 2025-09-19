@@ -1,6 +1,8 @@
-# Lista de Amigos
+# Amigo Secreto
 
 > Projeto simples para aprender JavaScript: adicionar nomes de amigos, mostrar lista e sortear um amigo aleatório.
+
+Segue o [**link**](https://caietec137.github.io/Desafio-Amigo-Secreto-Alura-One/) da aplicação publicada.
 
 ---
 
